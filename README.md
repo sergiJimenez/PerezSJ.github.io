@@ -1,2 +1,2 @@
-### HELLO THERE! This is the Columbus Shitter's
+### HELLO THERE!
 ## Soy Sergi, estudiante de desarrollo de aplicaciones web
