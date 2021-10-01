@@ -1,5 +1,5 @@
 <h2> Hello there, I'm Sergi! <img src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs/giphy.gif" width="40"></h2>
-<img align='right' src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs/giphy2.gif" width="230">
+<img align='right' src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs/giphy2.gif" width="230" data-rotate="90">
 <p><em>Software Enginner at <a href="https://politecnics.barcelona/">Politecnics Barcelona</a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
