@@ -1,5 +1,5 @@
 <h2> Hello there, I'm Sergi! <img src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs/giphy.gif" width="40"></h2>
-<img align='right' src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs/giphy2.gif" width="230" data-rotate="90">
+<img align='right' src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs/giphy2.gif" width="230">
 <p><em>Software Enginner at <a href="https://politecnics.barcelona/">Politecnics Barcelona</a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -22,4 +22,4 @@ const Sergi = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different hot dogs</b> so if you want to say <b>SALCHICHA, I'll be happy to meet you more!</b> :)</em>
