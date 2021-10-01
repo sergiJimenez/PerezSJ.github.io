@@ -10,9 +10,9 @@
 
 ```javascript
 const Sergi = {
-  pronouns: "he" | "him" | "microwave",
-  code: [Java, JavaScript, HTML, CSS, SQL, PHP],
-  tools: [VS Code, Node, Git, MySQL],
+  pronouns: "he" | "him" | "microwave"
+  code: [Java, JavaScript, HTML, CSS, SQL, PHP]
+  tools: [VS Code, Node, Git, MySQL]
   techCommunities: {
                         coorganizer: "FreakSmart",
                         speaker: "English de Barcelona",
