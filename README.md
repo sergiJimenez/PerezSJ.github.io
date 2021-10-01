@@ -1,4 +1,4 @@
-<h2> Hello there, I'm Sergi! <img src="https://giphy.com/gifs/jonny-magic-hot-dog-3o6gE51uXycrKW6D84" width="50"></h2>
+<h2> Hello there, I'm Sergi! <img src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://politecnics.barcelona/">Politecnics Barcelona</a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
