@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="https://politecnics.barcelona/">Politecnics Barcelona</a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub Sergi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/PerezSJ)
+[![GitHub Sergi](https://img.shields.io/github/followers/PerezSJ?label=follow&style=social)](https://github.com/PerezSJ)
 
 
 ### <img src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs/giphy3.gif" width="50"> A little more about me...  
