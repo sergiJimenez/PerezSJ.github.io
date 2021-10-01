@@ -1,6 +1,6 @@
 <h2> Hello there, I'm Sergi! <img src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs%20and%20Pictures/giphy.gif" width="40"></h2>
 <img align='right' src="https://github.com/PerezSJ/PerezSJ.github.io/blob/master/Gifs%20and%20Pictures/flip1.gif" width="230">
-<p><em>Software Student Enginner at <a href="https://politecnics.barcelona/">Politecnics Barcelona</a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p><em>Software Enginner Student at <a href="https://politecnics.barcelona/">Politecnics Barcelona</a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 [![GitHub Sergi](https://img.shields.io/github/followers/PerezSJ?label=follow&style=social)](https://github.com/PerezSJ)
