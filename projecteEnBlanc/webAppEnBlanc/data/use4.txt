@@ -1,1 +1,0 @@
-Carpeta amb dades de la webApp (JSON’s, XML’s, Variables globals amb vectors clau valor...) pot servir per simular els contenidors de dades persistents externs (dades en bases de dades)

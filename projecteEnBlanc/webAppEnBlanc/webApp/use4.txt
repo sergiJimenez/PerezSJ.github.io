@@ -1,1 +1,0 @@
-Carpeta amb recursos multimedia propis de la webApp, per exemple les icones o imatges de la interfície.
